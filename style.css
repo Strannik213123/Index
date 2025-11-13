@@ -1,0 +1,147 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* .main{ */
+  /* width: 500px; */
+  /* width: 100vw; */
+  /* min-width: 400px;
+  max-width: 800px; */
+  /* height: 100vh;
+  background-color: orange; */
+  /* font-size: 25px; */
+  /* display: flex;
+  gap: 10px; */
+  /* padding: 10px; */
+  
+/* }
+.child{
+  width: calc((100vw - 40px) / 5);
+  height: 100px;
+  background-color: blue; */
+  /* margin: 5px; */
+/* } */
+/* p{
+  background-color: red;
+  height: calc(100% / 3 - 5px);
+  font-size: 20px;
+} */
+
+
+/* @media screen and (min-width: 300px) and (max-width: 768px){
+  div{
+    background-color: green;
+    width: 30vw;
+  }
+}
+@media screen and (min-width: 769px) and (max-width: 1024px){
+  div{ */
+    /* background-color: green; */
+    /* background-color: blue;
+    width: 50vw;
+  }
+} */
+
+
+
+/* @media screen and (min-width: 769px) and (max-width: 1024px){
+  .main{
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+  .child{
+    width: 243px;
+  }
+}
+
+@media screen and (min-width: 769px) and (max-width: 775px){
+.child{
+  width: 240px;
+}
+} */
+
+/* @media screen and (min-width: 300px) and (max-width: 768px){
+  .main{
+    flex-wrap: wrap;
+  }
+  .child{
+    width: 250px;
+  }
+ }
+
+@media screen and (min-width: 300px) and (max-width: 530px){
+  .child{
+    width: 180px;
+  }
+}
+
+@media screen and (min-width: 300px) and (max-width: 400px){
+  .child{
+    width: 130px;
+  }
+} */
+
+
+
+/* @media screen and (min-width: 769px) and (max-width: 1024px){
+  .main{
+    flex-wrap: wrap;
+
+  }
+  .child{
+    width: 30vw;
+  }
+}
+
+@media screen and (min-width: 300px) and (max-width: 768px){
+    .main{
+    flex-wrap: wrap;
+
+  }
+.child{
+  width: 48vw;
+}
+} */
+
+
+
+
+@media screen and (min-width: 769px) {
+  .main{
+
+  width: 100vw;
+
+  height: 100vh;
+  background-color: orange;
+display: flex;
+gap: 10px;
+
+  
+}
+.child{
+  width: 30%;
+  height: 100px;
+  background-color: blue;
+
+}
+}
+
+@media screen and (min-width: 300px)  and (max-width: 768px) {
+    .main{
+      /* flex-direction: column; */
+      width: 100vw;
+
+  height: 100vh;
+  background-color: orange;
+display: flex;
+gap: 10px;
+
+      flex-wrap: wrap;
+    }
+    .child{
+      width: 90%;
+        height: 100px;
+  background-color: blue;
+    }
+}
