@@ -1,5 +1,3 @@
-const  price = "28Man";
-console.log(price);
-const  amount = "2";
-console.log(amount);
-
+let userName = "Samir";
+let surname = "Aliyev";
+console.log( + userName + " " + surname + ".");
