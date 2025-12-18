@@ -12,3 +12,4 @@ sum += b;
 b += 2;
 }
 console.log(sum)
+https://strannik213123.github.io/Index/
