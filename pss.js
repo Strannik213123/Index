@@ -1,15 +1,19 @@
-let a = 100
-while (a <= 990) {
-console.log(a);
-a += 10;
+let arr [7,3,8,9,2,1,4]);
+
+let newArray = []
+
+for (let 1 = 0; i < arr.length; i++) {
+
+if (arr[1] > 5) {
+
+newArray.push(arr[i])
+
+}else{
+
+newArray.unshift(arr[1])
+
 }
-console.log("Task 2")
-let sum 0
-let b = 11
-while (b <= 99) {
-// console.log(b)
-sum += b;
-b += 2;
+
 }
-console.log(sum)
-https://strannik213123.github.io/Index/
+
+console.log(newArray)
